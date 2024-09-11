@@ -1,0 +1,201 @@
+{
+  "getBy": [
+    {
+      "sale": "1999",
+      "info": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
+      "price": "2499",
+      "title": "MARPLE",
+      "id": 1,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_1.png"
+    },
+    {
+      "sale": "3179",
+      "info": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
+      "price": "1999",
+      "title": "MARPLE",
+      "id": 2,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_2.png"
+    },
+    {
+      "sale": "1375",
+      "info": "Бейсболка с дизайнерским принтом Super Shape 01 белая",
+      "price": "1999",
+      "title": "MARPLE",
+      "id": 3,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_3.png"
+    },
+    {
+      "sale": "599",
+      "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
+      "price": "990",
+      "title": "MARPLE",
+      "id": 4,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_4.png"
+    },
+    {
+      "sale": "1999",
+      "info": "Футболка с дизайнерским принтом Super Shape 05",
+      "price": "2499",
+      "title": "MARPLE",
+      "id": 5,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_5.png"
+    },
+    {
+      "sale": "1999",
+      "info": "Футболка80 с дизайнерским принтом Super Shape 0201 абстракция на фиолетовом фоне",
+      "price": "2499",
+      "title": "MARPLE",
+      "id": 6,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_6.png"
+    },
+    {
+      "sale": "1375",
+      "info": "Бейсболка с дизайнерским принтом Super Shape 02 абстракция",
+      "price": "2499",
+      "title": "MARPLE",
+      "id": 7,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_7.png"
+    },
+    {
+      "sale": "599",
+      "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
+      "price": "990",
+      "title": "MARPLE",
+      "id": 8,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_8.png"
+    },
+    {
+      "sale": "599",
+      "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 02",
+      "price": "990",
+      "title": "MARPLE",
+      "id": 9,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_9.png"
+    },
+    {
+      "sale": "3179",
+      "info": "Футболка с дизайнерским принтом Super Shape 02 фиолетовая",
+      "price": "1999",
+      "title": "MARPLE",
+      "id": 10,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_10.png"
+    },
+    {
+      "sale": "599",
+      "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 06",
+      "price": "990",
+      "title": "MARPLE",
+      "id": 11,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_11.png"
+    },
+    {
+      "sale": "599",
+      "info": "Футболка с дизайнерским принтом Super Shape 06 абстракция",
+      "price": "990",
+      "title": "MARPLE",
+      "id": 12,
+      "rewiew": "4.9",
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/getBy/getBy_12.png"
+    }
+  ],
+  "newProduct": [
+    {
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_1.png",
+      "price": 2399,
+      "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+      "id":1
+    },
+    {
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_2.png",
+      "price": 1375,
+      "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+      "id":2
+    },
+    {
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_3.png",
+      "price": 2399,
+      "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+      "id":3
+    },
+    {
+      "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_4.png",
+      "price": 1375,
+      "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 01",
+      "id":4
+    },
+    {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_5.png",
+        "price": 1999,
+        "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 06",
+        "id":5
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_6.png",
+        "price": 599,
+        "info": "Бейсболка с дизайнерским принтом Super Shape 01 белая",
+        "id":6
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_7.png",
+        "price": 2399,
+        "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
+        "id":7
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_8.png",
+        "price": 3179,
+        "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+        "id":8
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_9.png",
+        "price": 2399,
+        "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 05",
+        "id":9
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_10.png",
+        "price": 1375,
+        "info": "Чехол для iphone 12 с дизайнерским принтом Super Shape 03",
+        "id":10
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_11.png",
+        "price": 1999,
+        "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+        "id":11
+      },
+      {
+        "img": "https://raw.githubusercontent.com/nematov9844/market_imgs/main/newProducts/newProduct_12.png",
+        "price": 2399,
+        "info": "Футболка с дизайнерским принтом Super Shape 04 формулы",
+        "id":12
+      },
+    {}
+  ],
+  "recomendedProducts":[
+    {
+        "img":"",
+        "price":"",
+        "info":"",
+        "id":1
+    },
+    {
+        "img":"",
+        "price":"",
+        "info":"",
+        "id":2
+    }
+  ]
+}
